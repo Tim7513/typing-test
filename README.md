@@ -1,4 +1,4 @@
-This is the R.E Mountain Typing Test, conjointly developed by R.E Mountain Students Timothy Mai and Caleb Xu. This web development endeavour was done for a Computer Studies 10 class, serving as the final independent project. 
+This is the R.E Mountain Typing Test.
 
 
 Three technologies were used in this project:
