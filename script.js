@@ -11,16 +11,13 @@ const invalidKeys = 'F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12 Escape Tab CapsLock 
     ' ',
 );
 
-const text_list = ["We live in bliss. Blind, unknowing, and ignorant of the troubles that come before us. In the face of stride-highs, monument after monument crashing down, do the arrays fork and reincarnate. The worst comes at the best, the best comes at the worst, and life is a pure defiance of the plateau.",
-"Waves, crescents, rays, needles, a typical day is built of multiple logarithms.", "Move. get up. Take action. Drag your feet out of bed. You're late for school. Some checklists points have already been missed. The stock market has been open for three hours. Life-altering deals are being made without your control. As your snooze button was abused, the others were dismissed. As you felt the comfort of your bed, others felt the comfort of success. Look at your pathetic childhood room walls. No awards, no certificates, no medals, no distinct ambiance of memories. You have no friends, no achievements, no memories, no personality, and it is all because of YOU."
-," Light of my life, fire of my loins, the crescent, the uptick, the downfall, the mesmerization. The catalyst against the law, the stair’s to glory, lie in this behaviour. No matter the shift, physically, chemically, or biologically, retardation is of no equation. No linear line, parabola, derivative, logarithim, or set theory number can encompass the range that is upheld. Amongst all the darkness, anger, dispute, and despair, retardation shall sustain",
+const text_list = ["Waves, crescents, rays, needles, a typical day is built of multiple challenges",
 "Keep smiling, because life is a beautiful thing and there's so much to smile about",
 "Life is a long lesson in humility.",
 "In three words I can sum up everything I've learned about life: it goes on",
 "Opportunities don't happen, you create them",
-"Success is not final; failure is not fatal: It is the courage to continue that counts",
-"The neutralizer of the seed. The catalyst of boredom, and the poison for uniqueness. "
-]
+"Success is not final; failure is not fatal: It is the courage to continue those counts",
+"The neutralizer of the seed. The catalyst of boredom, and the origin for uniqueness."]
 
 
 function getRndInteger(min, max) {
